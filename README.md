@@ -92,18 +92,8 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 # 🚀Amazone පහසුකම් ලැයිස්තුව
-
-<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-  
-  </a>
-
-මෙන්න සම්පූර්ණ විධාන ලැයිස්තුව
-
-<a href="https://gist.github.com/xneon2/61e9205076afa540fc1d5f7a6f467bd1">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-
-  </a>
+    Bot සාදාගත්තාට පසු .menu ලෙස ටයිප් කර සෙන්ඩ් කිරිමෙන් මෙය ලබාගත හැකිය.
+ 
 
 ## 🚀F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
