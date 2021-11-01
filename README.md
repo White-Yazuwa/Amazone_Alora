@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://fzstream.techwizardent.com/90054)
+![logo](https://github.com/White-Yazuwa/White-Yazuwa/blob/main/IMG-20211101-WA0002.jpg)
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗢𝗥𝗔 (ᴠɪᴘ) </b></h1>
 
 </a>
