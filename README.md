@@ -8,7 +8,7 @@
 </a>
 
 ![logo](https://github.com/White-Yazuwa/White-Yazuwa/blob/main/IMG-20211101-WA0002.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗢𝗥𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🔹𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗢𝗥𝗔🔹 (∂ємσ) </b></h1>
 
 </a>
              
@@ -17,9 +17,9 @@
 
 </a>
 <p align="center">
-    Project of  🧚Amazone Alora🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි.⚡..🇱🇰
+    Project of  🔹Amazone Alora🔺 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි.⚡..🇱🇰
     <br>
-        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
+        <a href="https://chat.whatsapp.com/">Support Group</a> |
         <a href="https://Wa.me/+94762175136">xYAZUWA Whatsapp </a> |
    </a>    
         
@@ -90,11 +90,6 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
-
-
-> [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
-
-> [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
 # 🚀Amazone පහසුකම් ලැයිස්තුව
 
